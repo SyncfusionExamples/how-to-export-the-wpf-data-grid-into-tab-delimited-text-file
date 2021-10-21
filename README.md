@@ -11,5 +11,7 @@ var treeViewInfo = sfTreeView.GetItemInfo((this.DataContext as FileManagerViewMo
 var node = treeViewInfo.Node;
 ```
 
+KB article - [How to get the node in WPF TreeView (SfTreeView)?](https://www.syncfusion.com/kb/11991/how-to-get-the-node-in-wpf-treeview-sftreeview)
+
 ## Requirements to run the demo
  Visual Studio 2015 and above versions
